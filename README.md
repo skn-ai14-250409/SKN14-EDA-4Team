@@ -7,14 +7,14 @@
 - **데이터 구성**: 6개의 주요 특성과 종(species), 성별(sex), 서식지(island) 등으로 구성된 총 344개 샘플
 - **분석 단위**: 개별 펭귄
 
+-Adelie 펭귄
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAyMTNfMTg4%2FMDAxNjQ0NjgxMDI2ODMw.YlhgX9caN35OV6p45hN7n_ceHVacEVHyrI6UmV59xWog.dkozdvVVVMnm4yGrSvzpUN_rwk2hz9eLeV-RVcVZU5wg.JPEG.herjaeho%2F1800.jpeg&type=sc960_832" alt="예시 이미지" width="250"/>
-- Adelie 펭귄
-  
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F025%2F2020%2F02%2F11%2F0002974531_004_20240928121709253.jpg&type=sc960_832" alt="예시 이미지" width="280"/>
-- Chinstrap 펭귄
 
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5337%2F2025%2F04%2F25%2F0000146432_005_20250425151414622.jpg&type=sc960_832" alt="예시 이미지" width="250"/>
+- Chinstrap 펭귄  
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F025%2F2020%2F02%2F11%2F0002974531_004_20240928121709253.jpg&type=sc960_832" alt="예시 이미지" width="280"/>
+
 - Gentoo 펭귄
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5337%2F2025%2F04%2F25%2F0000146432_005_20250425151414622.jpg&type=sc960_832" alt="예시 이미지" width="250"/>
 
 ---
 
