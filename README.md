@@ -123,7 +123,7 @@
 ![img_11.png](img/img_11.png)
 - 상관관계 분석
 
-![correlation_heatmap_of_numerical_penguin_features_heatmap.png](img/correlation_heatmap_of_numerical_penguin_features_heatmap.png)
+![num_heatmap.png](img/num_heatmap.png)
 - `flipper_length_mm`와 `body_mass_g`는 **상관계수 0.87**로 매우 강한 양의 상관관계
 - `culmen_length_mm`와 `culmen_depth_mm`은 **상관계수 -0.23**으로 약한 음의 상관관계
 - `culmen_length_mm`와 `flipper_length_mm`는 **0.65**로 높은 양의 상관관계
@@ -148,16 +148,19 @@
 ---
 
 ## 10. 최종요약/인사이트 도출
+## 10. 최종요약/인사이트 도출
 - flipper_length_mm, culmen_length_mm, body_mass_g 조합으로 종별 경계가 비교적 뚜렷
 - Adelie, Gentoo, Chinstrap 펭귄은 생물학적 특성에서 확실한 차이를 보임
 - 주요 상관관계 수치 요약:
-  - `flipper_length_mm` ↔ `body_mass_g`: **0.87**
-  - `culmen_length_mm` ↔ `body_mass_g`: **0.59**
-  - `culmen_length_mm` ↔ `flipper_length_mm`: **0.65**
-  - `culmen_length_mm` ↔ `culmen_depth_mm`: **-0.23**
+  - `species` ↔ `body_mass_g`: **0.75**
+  - `species` ↔ `culmen_depth_mm`: **-0.74**
+  - `species` ↔ `flipper_length_mm`: **0.85**
+  - `species` ↔ `culmen_length_mm`: **-0.73**
 
-- 부리 길이, 체중, 날개 길이는 종 분류에 가장 중요한 변수로 활용 가능
+- 종과 상관관계가 높은 부리 길이, 부리 깊이, 체중, 날개 길이는 종 분류에 가장 중요한 변수로 활용 가능
 - 간단한 로지스틱 회귀로도 높은 정확도로 종 분류 가능함
+
+---
 
 ---
 
