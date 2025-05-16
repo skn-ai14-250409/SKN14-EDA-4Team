@@ -104,7 +104,7 @@
 ![penguin_species_by_island.png](img/penguin_species_by_island.png)
 - 펭귄종별 서식하는 섬
 
-![penguin_species_distribution_by_sex.png](img/penguin_species_distribution_by_sex.png)
+![species_sex_countplot.png](img/species_sex_countplot.png)
 - 펭귄종별 성별 수
 
 ---
