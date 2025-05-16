@@ -148,7 +148,6 @@
 ---
 
 ## 10. 최종요약/인사이트 도출
-## 10. 최종요약/인사이트 도출
 - flipper_length_mm, culmen_length_mm, body_mass_g 조합으로 종별 경계가 비교적 뚜렷
 - Adelie, Gentoo, Chinstrap 펭귄은 생물학적 특성에서 확실한 차이를 보임
 - 주요 상관관계 수치 요약:
